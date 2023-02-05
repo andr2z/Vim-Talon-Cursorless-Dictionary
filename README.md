@@ -3,6 +3,7 @@
 - Inspired by: https://vim.rtorr.com/
 - Vim Docs: https://vimdoc.sourceforge.net/
 - Cursorless Docs: https://www.cursorless.org/docs/
+- Most of the remaining Talon commands come from https://github.com/knausj85/knausj_talon 
 
 ## Cursor Movements (normal mode)
 
