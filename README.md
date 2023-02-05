@@ -1,7 +1,8 @@
 # Vim Talon Cursorless Dictionary
 
-Inspired by: https://vim.rtorr.com/
-Vim Docs: https://vimdoc.sourceforge.net/
+- Inspired by: https://vim.rtorr.com/
+- Vim Docs: https://vimdoc.sourceforge.net/
+- Cursorless Docs: https://www.cursorless.org/docs/
 
 ## Cursor Movements (normal mode)
 
@@ -271,6 +272,8 @@ https://github.com/tpope/vim-surround
 | ds[target]           | delete [target]-surroundings               |                  |
 | cs[target1][target2] | change surroundings [target1] to [target2] |                  |
 | ys[motion][target]   | change surrounding of [motion] to [target] |                  |
+
+Todo
 
 ## .ideavim (personal settings)
 
